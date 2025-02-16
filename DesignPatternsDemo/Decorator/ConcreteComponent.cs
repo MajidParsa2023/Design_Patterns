@@ -4,7 +4,7 @@
 	{
 		public void Operation()
 		{
-			Console.WriteLine("Concrete Component Operation");
+			Console.WriteLine("Concrete Component Operation - Adding decorator behavior without changing codes in the Decorator.cs");
 		}
 	}
 }

@@ -12,7 +12,7 @@
 		public void Operation()
 		{
 			_component.Operation();
-			Console.WriteLine("Decorator Operation");
+			Console.WriteLine("Decorator Operation - Executing base operation");
 		}
 	}
 }
